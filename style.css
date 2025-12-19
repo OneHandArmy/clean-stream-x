@@ -10,7 +10,8 @@ body.is-video-page .related-videos,
 body.is-video-page aside,
 body.is-video-page #playlist,
 body.is-video-page .mhp1134_reco_container,
-body.is-video-page section.related-videos-section {
+body.is-video-page section.related-videos-section,
+body.is-video-page .video-wrapper + div /* Fallback for dynamic grids */ {
     display: none !important;
     visibility: hidden !important;
 }
