@@ -21,7 +21,9 @@
   ],
   "browser_specific_settings": {
     "gecko": {
-      "id": "clean-stream-x@one.hand.army"
+      "id": "clean-stream-x@one.hand.army",
+      "strict_min_version": "128.0",
+      "data_collection_permissions": "none required"
     }
   }
 }
