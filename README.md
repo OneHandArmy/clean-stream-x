@@ -27,7 +27,7 @@ This plugin is fully open-source. I believe that tools built for privacy and per
 
 🛠️ Installation
 
-    Clone the repository: git clone []
+    Clone the repository: git clone [https://github.com/OneHandArmy/clean-stream-x]
 
     Open your browser's extension management page (e.g., chrome://extensions).
 
