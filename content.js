@@ -21,7 +21,16 @@
         }
     };
 
-    // Run every 500ms to handle site navigation without page refreshes
-    setInterval(updateState, 500);
+    // Use MutationObserver for better performance than setInterval
+    const observer = new MutationObserver(() => {
+        updateState();
+    });
+
+    observer.observe(document.documentElement, {
+        childList: true,
+        subtree: true
+    });
+
+    // Initial run
     updateState();
 })();
