@@ -5,6 +5,8 @@ A lightweight, privacy-focused browser extension designed to help you regain con
 
 In a world of "attention economies," this tool is designed to put you back in the driver's seat. Whether it's reducing mindless scrolling or managing digital distractions, the goal is to help you build better habits without sacrificing your personal data.
 
+Look, let's be real for a second. We're not all as holy as our Moms might like us to be, but the sites we don't tell people we visit have some very distracting thumbnails ,which can really lead us down a rabbit hole. Just like extensions that remove YouTube suggestions, this plugin was created to remove the suggestions from the two biggest adult websites. You might ask why anyone would want this, but I'd just ask you, how long do you really spend on those sites? I would imagine you watch one or two videos, then close all the tabs you opened because your 'eyes were bigger than your... belly.' You don't need all those other tabs, and that's what this extension is for. Simple as that.
+
     Zero Tracking: We don't collect, store, or sell your browsing data.
 
     Local Processing: All habit-control logic happens directly on your device.
