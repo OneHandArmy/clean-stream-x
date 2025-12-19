@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Automatically removes sidebars, comments, and related grids from certain popular video streaming sites.",
   "author": "The One Hand Army",
-  "homepage_url": "https://github.com/your-username/clean-stream-x",
+  "homepage_url": "https://github.com/OneHandArmy/clean-stream-x",
   "icons": {
     "128": "icon.png"
   },
