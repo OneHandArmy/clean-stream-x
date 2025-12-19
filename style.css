@@ -1,0 +1,26 @@
+/* Only hide these when the 'is-video-page' class is active on the body */
+
+/* 1. Hide Sidebar and Bottom Grids */
+body.is-video-page #videoGridTabs,
+body.is-video-page .videoGridTabs,
+body.is-video-page #relatedVideosCenter,
+body.is-video-page [data-segment="related_videos"],
+body.is-video-page .recom-videos,
+body.is-video-page .related-videos,
+body.is-video-page aside,
+body.is-video-page #playlist,
+body.is-video-page .mhp1134_reco_container,
+body.is-video-page section.related-videos-section {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+/* 2. Hide Comments Section */
+body.is-video-page #cmtWrapper,
+body.is-video-page .commentSection,
+body.is-video-page #comments,
+body.is-video-page .video-comments-container,
+body.is-video-page #recom-comments {
+    display: none !important;
+    visibility: hidden !important;
+}
